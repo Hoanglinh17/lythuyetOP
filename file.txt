@@ -1,1 +1,2 @@
 Commit 1: Nội dung ban đầu trên master
+Commit 2: Cập nhật trên master
